@@ -5,6 +5,12 @@ A machine learning project for detecting fraudulent credit card transactions usi
 
 ---
 
+# Dataset
+
+Dataset used in this project:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Overview
 
 This project focuses on identifying fraudulent credit card transactions using supervised machine learning models. The notebook includes data preprocessing, feature scaling, model training, evaluation, and comparison of different algorithms.
